@@ -755,10 +755,11 @@ main .container .right {
     }
 
     main .container .left {
-        grid-column: 3/4;
+        grid-column: 2/4;
         position: fixed;
         bottom: 0;
         right: 0;
+        
     }
 
     .left .notifications-popup {
